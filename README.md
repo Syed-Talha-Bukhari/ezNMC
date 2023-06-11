@@ -1,2 +1,2 @@
 # ezNMC
-MERN application for digital solution NUST Medical Centre.
+MERN application for digital solution of NUST Medical Centre.
